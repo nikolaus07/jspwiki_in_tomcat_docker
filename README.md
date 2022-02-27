@@ -1,4 +1,4 @@
-# jspwiki in tomcat in Docker
+# jspwiki in Docker via Tomcat
 
 __build docker-image__
 ```
