@@ -24,3 +24,9 @@ __test jsp-wiki__
 ```
 http://localhost:8081/Demo_git
 ```
+
+__Live on server__
+```
+https://www.wiki-sw-testen.de:8089/Demo_git/
+```
+
