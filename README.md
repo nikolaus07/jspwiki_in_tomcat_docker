@@ -7,7 +7,7 @@ docker build -t demo_image .
 
 __run container__
 ```
-docker run -d --restart always -p 8089:8080 --name wiki_8089  --volume="/home/yourHostName/volumenWiki:/usr/local/tomcat/tomcatShare" demo_image
+docker run -d -p 8089:8080 --name wiki_8089  --volume="/home/nikolaus07/volumenWiki:/usr/local/tomcat/tomcatShare" demo_image
 ```
 
 __inspect container__
